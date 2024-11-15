@@ -1,0 +1,26 @@
+<BoxLayoutDemo>:
+    orientation: 'vertical'
+
+    Button:
+        text: 'Clear'
+        on_press: app.root.handle_clear()
+
+    Button:
+        text: 'two'
+        # This button is replaced with a TextInput below
+
+    TextInput:
+        id: input_name
+        text: ''
+
+    Button:
+        text: 'Greet'
+        on_press: app.root.handle_greet()
+
+    Label:
+        id: output_label
+        text: ''
+        color: (1, 1, 0, 1)  # Yellow color
+
+    Label:
+        text: 'Enter your name'
