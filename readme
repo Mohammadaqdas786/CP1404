@@ -1,0 +1,27 @@
+# CP1404 Practicals
+
+## About This Repository
+
+This repository contains practical exercises and projects completed as part of the CP1404 Programming II subject at James Cook University.
+
+### About Me
+
+Mohammad Aqdas Ayyub Lonbal
+- Student at James Cook University
+- Studying bachelor in information technology
+- Expected graduation: 2026
+
+## Clean Code Lessons Learned
+
+Throughout this subject, I've learned several important lessons about writing clean code:
+
+- Consistent naming conventions improve code readability and maintainability
+- DRY (Don't Repeat Yourself) principle helps reduce code duplication and potential errors
+- Proper commenting and documentation make code more understandable for others (and future you)
+- Breaking down complex problems into smaller, manageable functions enhances code structure
+- Version control (like Git) is crucial for tracking changes and collaborating with others
+
+## Useful Links
+
+- [Programming Patterns]https://github.com/Mohammadaqdas786/Mohammadaqdas786
+- [CP1404 Practicals Instructions Repository]https://github.com/Mohammadaqdas786/Mohammadaqdas786.git
